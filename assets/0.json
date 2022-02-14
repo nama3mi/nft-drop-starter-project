@@ -1,0 +1,20 @@
+{
+    "name": "NAME_OF_NFT",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "numbers", "family": "numbers"}
+  }
